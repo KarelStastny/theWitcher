@@ -1,15 +1,14 @@
 export const mainWeapon = {
     mage: [
-        iceMagic,
-        fireMagic,
-        dark
+        "iceMagic",
+        "fireMagic",
+        "dark"
     ],
     witcher: [
-        sword,
-        silverSword,
-
+        "sword",
+        "silverSword"
     ]
-}
+};
 
 export const witcherMagic = {
     Aard: {
